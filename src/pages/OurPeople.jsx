@@ -11,61 +11,61 @@ const OurPeople = () => {
       name: 'Femi Oladehin',
       role: 'Chairman',
       description: 'Femi has over 25 years of research, portfolio management, private equity, and investment banking experience across the international and West African markets. He has advised on transactions in excess of US$10 billion, including the sale of two midstream gas infrastructure companies and a downstream marketing company.',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2021/04/femi-600x600.jpg'
     },
     {
       name: 'Oladimeji Edwards',
       role: 'Chief Executive',
       description: 'With well over three decades of experience in the global oil and gas industry, Dimeji Edwards has overall strategic oversight for the effective running of the Hyde Energy Group of Companies.',
-      image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2021/03/hp2.jpg'
     },
     {
       name: 'Aderemi Williams',
       role: 'Executive Director',
       description: 'Aderemi Williams leads the Company\'s Sales and Marketing business and provides overall supervisory oversight on the retail and commercial sales activities of the Company\'s product offerings which include white products, LPG and lubricants. Prior to joining Hyde, Aderemi held managerial positions in several companies, including Global Haulage Resources Limited, Commodity Support Services Limited and SGS Inspection Services.',
-      image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2021/03/hp4.jpg'
     },
     {
       name: 'Olubunmi Oluwole',
       role: 'Non-Executive Director',
       description: 'Olubunmi was the Head of Corporate Services. She has over 23 years of experience in the financial services industry with a focus on human capital management from Standard Chartered Bank Nig. Ltd. and GTBank Plc. Her remit covers the people, culture, brand, and facilities of the group. She has a degree in sociology & anthropology and is an associate of the Chartered Institute of Personnel Development.',
-      image: 'https://images.unsplash.com/photo-1494790108755-2616b612b098?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2021/03/hp8.jpg'
     },
     {
       name: 'Kayode Agunbiade',
       role: 'Chief Financial Officer',
       description: 'Kayode is the Chief Financial Officer at Hyde Energy Limited. He has 27 years of working experience with 20 years of post-qualification experience as a chartered accountant. He oversees the trade finance, financial reporting, audit, and management of the group. He is a chemical engineering graduate of Obafemi Awolowo University with an MBA in finance.',
-      image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2022/07/Mr.-Kayode-Agunbiade-600x600.jpg'
     },
     {
       name: 'Adedayo Harold-Sodipo',
       role: 'Head, Business Development Management',
       description: 'Dayo is the Head of Business Development at Hyde Energy. She has over 10 years of working experience in the oil & gas industry. Prior to joining Hyde, she served in several supervisory roles in the largest indigenous multi-billion dollar oil & gas company, where she started her career.',
-      image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2021/03/hp10.jpg'
     },
     {
       name: 'Abdulwahab Oseni',
       role: 'Head, Legal & Compliance',
       description: 'He holds an LLM in Corporate & Financial Law from the University of Glasgow, UK. He is a Certified Corporate Compliance and Ethics Professional and an Associate of the Chartered Institute of Arbitrators, UK. Before joining Hyde, he was with the Nigerian Stock Exchange, where he was a key member of the Legal & Company Secretarial Department.',
-      image: 'https://images.unsplash.com/photo-1507591064344-4c6ce005b128?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2021/03/hp5.jpg'
     },
     {
       name: 'Olumuyiwa Akande',
       role: 'Head, LPG',
       description: 'Olumuyiwa oversees the LPG business. He is responsible for the development and implementation of Hyde\'s LPG expansion projects in Nigeria. He has over 12 years of experience driving sales and marketing in the FMCG industry. He has an MBA in marketing with a BSc and an MSc in geology.',
-      image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2022/11/Olumuyiwa-Akande-600x600.jpg'
     },
     {
       name: 'Ayobami Olowolayemo',
       role: 'Head, Lubricants',
       description: 'Ayobami heads the Lubricant Business (Commercial and Retail). He has extensive experience in the development of strategic route-to-market, sales channel, brand management, and salesforce competency across FMCG and pharmaceutical industries in Nigeria. He holds an MBA in strategic marketing and is a member of the Chartered Institute of Marketing (UK).',
-      image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2023/07/Ayobami-600x600.jpg'
     },
     {
       name: 'Adewumi Alphonso',
       role: 'Head, Corporate Services',
       description: 'Adewumi serves as the Head of Corporate Services for Hyde Energy. She oversees the human resources, administrative, procurement, CSR, IT, and customer experience functions of all Hyde entities. She is responsible for managing the people, culture, and values of the group.',
-      image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
+      image: 'https://hydeenergyltd.com/wp-content/uploads/2025/03/Adewumi-600x600.jpg'
     }
   ];
 
