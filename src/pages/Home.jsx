@@ -213,9 +213,9 @@ const Home = () => {
               className="relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1497436072909-f5e4be1713a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                alt="Energy Infrastructure"
-                className="rounded-xl shadow-2xl"
+                src="https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1751994149943-blob"
+                alt="Hyde Energy Vision"
+                className="rounded-xl shadow-2xl w-full h-auto object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-tr from-primary-500/20 to-transparent rounded-xl"></div>
             </motion.div>
